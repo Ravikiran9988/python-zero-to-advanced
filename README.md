@@ -41,7 +41,7 @@ Choose either option to access the First Edition:
 
 | Source | Access |
 |---|---|
-| Telegram | [Download the PDF from the KiranVerse post](https://t.me/KiranVerse/58) |
+| Telegram | [Download the PDF from the KiranVerse post](https://t.me/KiranVerse/63) |
 | GitHub | [Open the PDF in this repository](https://github.com/Ravikiran9988/python-zero-to-advanced/blob/master/Python_Zero_to_Advanced_First_Edition.pdf) |
 | Direct file | [Download the PDF](https://raw.githubusercontent.com/Ravikiran9988/python-zero-to-advanced/master/Python_Zero_to_Advanced_First_Edition.pdf) |
 
