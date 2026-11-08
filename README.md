@@ -8,6 +8,20 @@
   <a href="https://axly.in">AXLY</a> · First Edition · October 2026
 </p>
 
+## Get the Book
+
+<p align="center">
+  <a href="https://t.me/KiranVerse/58"><strong>Download the PDF on Telegram</strong></a>
+  &nbsp; · &nbsp;
+  <a href="https://github.com/Ravikiran9988/python-zero-to-advanced/blob/master/Python_Zero_to_Advanced_First_Edition.pdf"><strong>View PDF on GitHub</strong></a>
+</p>
+
+- **Telegram PDF post:** [Download *Python: Zero to Advanced*](https://t.me/KiranVerse/58)
+- **GitHub PDF:** [Python_Zero_to_Advanced_First_Edition.pdf](https://github.com/Ravikiran9988/python-zero-to-advanced/blob/master/Python_Zero_to_Advanced_First_Edition.pdf)
+- **Repository:** [Browse the book repository](https://github.com/Ravikiran9988/python-zero-to-advanced)
+
+> Please refer to the copyright and license terms below before downloading, sharing or reusing any part of this publication.
+
 ---
 
 ## About the Book
@@ -183,8 +197,18 @@ The book is published under the **AXLY** brand.
 - Website: [axly.in](https://axly.in)
 - GitHub: [Ravikiran9988](https://github.com/Ravikiran9988)
 - LinkedIn: [Medicharla Ravi Kiran](https://www.linkedin.com/in/medicharla-ravi-kiran/)
-- Telegram: [KiranVerse](https://t.me/KiranVerse)
+- Telegram channel: [Join KiranVerse](https://t.me/KiranVerse) — Python tips, practical tricks, learning resources, updates and announcements.
 - Email: [ravikiran@axly.in](mailto:ravikiran@axly.in)
+
+## Join the KiranVerse Community
+
+Stay connected with **KiranVerse** for Python tips, useful programming tricks, learning resources, technology updates and future announcements.
+
+<p align="center">
+  <a href="https://t.me/KiranVerse"><strong>Join the KiranVerse Telegram Channel →</strong></a>
+</p>
+
+For the book's PDF download, use the [Telegram download post](https://t.me/KiranVerse/58) or the [GitHub PDF](https://github.com/Ravikiran9988/python-zero-to-advanced/blob/master/Python_Zero_to_Advanced_First_Edition.pdf).
 
 ## Feedback and Corrections
 
@@ -202,7 +226,7 @@ No part of the book may be reproduced, republished, redistributed, translated, a
 
 - Do not upload or redistribute the complete book PDF or reproduce its chapters elsewhere without written permission.
 - Making this repository public does not grant permission to copy, modify, translate, sell or republish the book or its contents.
-- To request permission, visit [https://axly.in](https://axly.in).
+- To request permission, email [ravikiran@axly.in](mailto:ravikiran@axly.in).
 
 Third-party names, libraries, datasets, papers and trademarks mentioned in the book belong to their respective owners. Their own licenses and terms continue to apply.
 
@@ -212,5 +236,6 @@ Third-party names, libraries, datasets, papers and trademarks mentioned in the b
 
 <p align="center">
   <strong>Learn by typing. Understand by experimenting. Grow by building.</strong><br>
-  <a href="https://axly.in">AXLY — https://axly.in</a>
+  <a href="https://axly.in">AXLY — https://axly.in</a><br>
+  <a href="https://t.me/KiranVerse">Join KiranVerse on Telegram</a>
 </p>
